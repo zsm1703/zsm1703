@@ -2,6 +2,12 @@
 
 
 <!--START_SECTION:waka-->
+```text
+YAML                  7 mins          ██████████▓░░░░░░░░░░░░░░   42.38 % 
+Sublime Text Config   4 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.95 % 
+Other                 4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+JSON                  1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
