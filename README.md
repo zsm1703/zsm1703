@@ -3,7 +3,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML     4 mins          █████████████████████████   100.00 % 
+Python   19 mins         ████████████████████▓░░░░   82.30 % 
+YAML     4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.70 % 
 ```
 <!--END_SECTION:waka-->
 
