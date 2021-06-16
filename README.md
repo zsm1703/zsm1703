@@ -3,9 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Bash       50 mins         ███████████████████▒░░░░░   76.81 % 
-Swift      9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Python     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
