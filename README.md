@@ -3,7 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Java    1 min           ███████████▒░░░░░░░░░░░░░   45.50 % 
 ```
 <!--END_SECTION:waka-->
 
